@@ -9,4 +9,4 @@ Links and ressources for internal affairs
 
 ## guides / manuals
 
-## development cycle
+## development process
