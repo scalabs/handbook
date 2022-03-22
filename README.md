@@ -1,7 +1,7 @@
 # documentation
 Links and ressources for internal affairs
 
-Please go ahead and improve this! ~ Lukas
+Please go ahead and improve this! ~ *Lukas*
 
 ## tooling
 - GitHub for source code & project management: GitHub Issues, Pull Requests, Code Review, Project Boards, etc.
