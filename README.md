@@ -23,7 +23,7 @@ Please go ahead and improve this! ~ *Lukas*
 - https://github.com/scalabs-graveyard - retired projects by ScaLabs
 - https://github.com/dartclub - Dart OSS Projects
 - https://github.com/opendata-nuernberg - Open Data Projects in and around Nuremberg
-- https://github.com/gdgnuernberg - GDG Nuremberg -related projects
+- https://github.com/gdgnuernberg - GDG Nuremberg - related projects
 
 # development process
 
