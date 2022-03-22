@@ -13,7 +13,7 @@ Links and ressources for internal affairs
 
 ## guides / manuals / ressources
 
-# ScaLabs Projects overview: https://github.com/orgs/scalabs/projects/10
+- **ScaLabs Projects overview**: https://github.com/orgs/scalabs/projects/10
 
 ## GitHub Organisations:
 - https://github.com/avmverlag - World of Bike
