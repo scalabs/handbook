@@ -13,6 +13,15 @@ Links and ressources for internal affairs
 
 ## guides / manuals
 
+Projects overview: https://github.com/orgs/scalabs/projects/10?add_cards_query=is%3Aopen
+GitHub Organisations:
+- https://github.com/avmverlag - World of Bike
+- https://github.com/scalabs - MOST IMPORTANT
+- https://github.com/scalabs-graveyard - retired projects by ScaLabs
+- https://github.com/dartclub - Dart OSS Projects
+- https://github.com/opendata-nuernberg - Open Data Projects in and around Nuremberg
+- https://github.com/gdgnuernberg - GDG Nuremberg -related projects
+
 # development process
 
 - oriented on scrum https://m.youtube.com/watch?v=PPO5GwSo0d4
