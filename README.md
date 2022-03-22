@@ -27,6 +27,7 @@ Links and ressources for internal affairs
 
 - oriented on scrum https://m.youtube.com/watch?v=PPO5GwSo0d4
 - for smaller projects no clear sprints, but weekly review/feedback rounds
+- We rely heavily on *public documentation for the whole development team* in our projects! **THIS MEANS:** Always keep your issues and pull requests up to date, resolve conversations, describe problems inside of issues and pull requests, with mentioning all of the people involved, instead of phone calls and private chats.
 
 ### Meetings:
   - daily 7:45-8:00
