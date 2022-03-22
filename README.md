@@ -52,3 +52,6 @@ Links and ressources for internal affairs
 - `main` upstream branch, reviewed / quality control. Merged via squash
 - `releases` releases, production branch / protected, controlled, after testing/staging, merged from `main` via squash
 
+---
+
+Contact Lukas anytime! +49 173 6107430 / lukas@scalabs.de / https://himsel.me
