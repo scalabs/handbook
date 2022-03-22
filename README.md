@@ -11,10 +11,11 @@ Links and ressources for internal affairs
 - Chrome & Firefox
 - Google Workspace
 
-## guides / manuals
+## guides / manuals / ressources
 
-Projects overview: https://github.com/orgs/scalabs/projects/10?add_cards_query=is%3Aopen
-GitHub Organisations:
+# ScaLabs Projects overview: https://github.com/orgs/scalabs/projects/10
+
+## GitHub Organisations:
 - https://github.com/avmverlag - World of Bike
 - https://github.com/scalabs - MOST IMPORTANT
 - https://github.com/scalabs-graveyard - retired projects by ScaLabs
