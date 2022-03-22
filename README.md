@@ -15,6 +15,7 @@ Please go ahead and improve this! ~ *Lukas*
 ## guides / manuals / ressources
 
 - **ScaLabs Projects overview**: https://github.com/orgs/scalabs/projects/10
+- [Code of Conduct WIP](https://github.com/scalabs/documentation/blob/main/CODE-OF-CONDUCT.md)
 
 ## GitHub Organisations:
 - https://github.com/avmverlag - World of Bike
