@@ -40,7 +40,14 @@ See [here](https://github.com/orgs/scalabs/teams)
   - monday weekly brief 13:00-14:00 -> protocol: meeting notes
   - friday weekly debrief 12:00-13:00 -> protocol: meeting notes
 
-- Lukas offers pair-programming sessions as 2-hour blocks Tue-Fri 13-15:00 and 15-17:00
+- Lukas offers pair-programming sessions as 90-Minute blocks Tue, Thu, and Fri 13-14:30 and 14:30-16:00
+
+### Project management implementation on GitHub
+- Each repository's issues are the full **backlog** for a project
+- Pull requests and feature branches are used to work on issues from the backlog
+- Project boards (Kanban-style) are used for *sprints*.
+- Each sprint will be planned in a *kick-off* and *retrospective meeting*.
+- Sprints may be accompanied by milestones
 
 ### Feature implementation process:
 1. Backlog / Issue
