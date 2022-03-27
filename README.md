@@ -25,6 +25,10 @@ Please go ahead and improve this! ~ *Lukas*
 - https://github.com/opendata-nuernberg - Open Data Projects in and around Nuremberg
 - https://github.com/gdgnuernberg - GDG Nuremberg - related projects
 
+### Teams
+We have different teams with access to different repos & projects.
+See [here](https://github.com/orgs/scalabs/teams)
+
 # development process
 
 - oriented on scrum https://m.youtube.com/watch?v=PPO5GwSo0d4
