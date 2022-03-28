@@ -65,6 +65,11 @@ See [here](https://github.com/orgs/scalabs/teams)
 - `main` upstream branch, reviewed / quality control. Merged via squash
 - `releases` releases, production branch / protected, controlled, after testing/staging, merged from `main` via squash
 
+##### Naming branches
+
+- `bug-fix-NUMBER_OF_ASSOCIATED_ISSUE`
+- `feature-FEATURE_NAME`
+
 ---
 
 Contact Lukas anytime! +49 173 6107430 / lukas@scalabs.de / https://himsel.me
