@@ -12,6 +12,23 @@ Please go ahead and improve this! ~ *Lukas*
 - Chrome & Firefox
 - Google Workspace
 
+## tech stack
+- Primary programming languages: Dart, TypeScript/JavaScript, Python, Rust, C
+- Mobile Apps
+  - Flutter https://flutter.dev
+  - BloC https://bloclibrary.dev
+  - Mapbox https://mapbox.com
+- Web development
+  - JAMStack
+  - Jekyll, 11ty, SvelteKit
+  - Svelte, React/PReact
+  - Vite
+  - Dart4Web, vanilla JavaScript, TypeScript
+  - CSS, SASS/SCSS
+  - AMPHTML
+- Cloud
+  - TODO
+
 ## guides / manuals / ressources
 
 - **ScaLabs Projects overview**: https://github.com/orgs/scalabs/projects/10
