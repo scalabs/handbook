@@ -57,7 +57,7 @@ See [here](https://github.com/orgs/scalabs/teams)
   - monday weekly brief 13:00-14:00 -> protocol: meeting notes
   - friday weekly debrief 12:00-13:00 -> protocol: meeting notes
 
-- Lukas offers pair-programming sessions as 90-Minute blocks Tue, Thu, and Fri 13-14:30 and 14:30-16:00
+- Lukas offers pair-programming sessions as 90-Minute blocks Tue, Thu, and Fri 13-14:30 and 14:30-16:00 https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJxdlgxdF9oX3NwfGRlZmF1bHR8NjJkMDVkZGY3NjgzZDkyZmU1ZWQ3MWQwYjQ0ODcyMjE
 
 ### Project management implementation on GitHub
 - Each repository's issues are the full **backlog** for a project
