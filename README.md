@@ -87,6 +87,9 @@ See [here](https://github.com/orgs/scalabs/teams)
 - `bug-fix-NUMBER_OF_ASSOCIATED_ISSUE`
 - `feature-FEATURE_NAME`
 
+# Standards, CSR, CER
+This is a work in process at ScaLabs.
+
 ---
 
 Contact Lukas anytime! +49 173 6107430 / lukas@scalabs.de / https://himsel.me
