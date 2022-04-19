@@ -81,6 +81,8 @@ See [here](https://github.com/orgs/scalabs/teams)
   - Another review cycle, until approved!
 7. After review & all checks succeeded, maintainer will merge into `main`!
 
+**⚠️ Don't delete your branches after a PR ⚠️**
+
 ### Branches:
 - `main` upstream branch, reviewed / quality control. Merged via squash
 - `releases` releases, production branch / protected, controlled, after testing/staging, merged from `main` via squash
