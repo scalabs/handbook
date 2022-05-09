@@ -48,7 +48,7 @@ See [here](https://github.com/orgs/scalabs/teams)
 
 # development process
 
-## Types of projects' tasks
+# Types of projects' tasks
 - Exploratory (defined dynamically prallel to project development)
 - Normal (well-defined ahead of development)
 
