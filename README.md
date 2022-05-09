@@ -72,6 +72,8 @@ See [here](https://github.com/orgs/scalabs/teams)
 - Each sprint will be planned in a *kick-off* and *retrospective meeting*.
 - Sprints may be accompanied by milestones
 
+![C00FAFCE-D38A-4747-BD35-060A6B62CF2D](https://user-images.githubusercontent.com/10634693/167407297-6830ca6c-2db6-4a20-8b1c-2b3f9bc33235.jpeg)
+
 ### Feature implementation process:
 1. Backlog / Issue
 2. Create a new branch `feature-` from `main`
