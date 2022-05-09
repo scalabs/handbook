@@ -47,17 +47,16 @@ We have different teams with access to different repos & projects.
 See [here](https://github.com/orgs/scalabs/teams)
 
 # development process
-
-### Types of projects' tasks
-- Exploratory (defined dynamically prallel to project development)
-- Normal (well-defined ahead of development)
-
 - oriented on Scrum, you can watch the basics here: https://m.youtube.com/watch?v=PPO5GwSo0d4
 - for smaller projects no clear sprints, but weekly review/feedback rounds
 - **GitHub is our most important communication channel!** We rely heavily on *public documentation for the whole development team* in our projects! **THIS MEANS:**
    - Always keep your issues and pull requests up to date
    - Resolve conversations, describe problems inside of issues and pull requests, with mentioning all of the people involved, instead of phone calls and private chats. 
    - yFor work-related time-sensitive conversations, Google Chat is the standard choice!
+
+### Types of projects' tasks
+- Exploratory (defined dynamically prallel to project development)
+- Normal (well-defined ahead of development)
 
 ### Meetings:
   - daily 7:45-8:00
