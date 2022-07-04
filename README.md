@@ -13,7 +13,7 @@ Please go ahead and improve this! ~ *Lukas*
 - Google Workspace
 
 ## tech stack
-- Primary programming languages: Dart, TypeScript/JavaScript, Python, Rust, C
+- Primary programming languages: Dart, TypeScript/JavaScript, Python, C
 - Mobile Apps
   - Flutter https://flutter.dev
   - BloC https://bloclibrary.dev
