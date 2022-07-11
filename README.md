@@ -77,14 +77,15 @@ See [here](https://github.com/orgs/scalabs/teams)
 ### Feature implementation process:
 1. Backlog / Issue
 2. Create a new branch `feature-` from `main`
-3. Create a draft pull request, mention associated issues
-4. Implement & commit
-5. Convert to real PR "ready for review"
-6. Code review / it might help to suggest a reviewer
+3. Create a draft pull request
+4. Mention associated issues
+5. Implement & commit
+6. Convert to real PR "ready for review"
+7. Code review / it might help to suggest a reviewer
   - Reviewer comments/requests changes/approves
   - Dev converses in the discussions, makes changes, and **resolves discussions**
   - Another review cycle, until approved!
-7. After review & all checks succeeded, maintainer will merge into `main`!
+8. After review & all checks succeeded, maintainer will merge **as squash-merge** into `main`!
 
 **⚠️ Don't delete your branches after a PR ⚠️**
 
