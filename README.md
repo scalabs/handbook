@@ -86,10 +86,10 @@ See [here](https://github.com/orgs/scalabs/teams)
   - Another review cycle, until approved!
 7. After review & all checks succeeded, maintainer will merge into `main`!
 
-**⚠️ Don't! delete your branches after a PR ⚠️**
+**⚠️ Don't delete your branches after a PR ⚠️**
 
 ## Softare release process
-[Software-Release-Prozess](https://user-images.githubusercontent.com/10634693/178265172-32babf22-71d5-48e4-8e82-06be93d9b1c3.png)
+![Software-Release-Prozess](https://user-images.githubusercontent.com/10634693/178265172-32babf22-71d5-48e4-8e82-06be93d9b1c3.png)
 
 ### Branches:
 - `main` upstream branch, reviewed / quality control. Merged via squash
