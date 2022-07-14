@@ -98,8 +98,8 @@ See [here](https://github.com/orgs/scalabs/teams)
 
 ##### Naming branches
 
-- `bug-fix-NUMBER_OF_ASSOCIATED_ISSUE`
-- `feature-FEATURE_NAME`
+- `bug-fix-NUMBER-OF-ASSOCIATED-ISSUE`
+- `feature-FEATURE-NAME`
 
 # Standards, CSR, CER
 This is a work in process at ScaLabs.
