@@ -92,13 +92,18 @@ https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-p
     <img width="262" alt="Screenshot 2022-07-21 at 10 11 25" src="https://user-images.githubusercontent.com/10634693/180164265-e90228fb-6591-41fa-929b-343a093beb5f.png">
     <img width="262" alt="Screenshot 2022-07-21 at 10 11 42" src="https://user-images.githubusercontent.com/10634693/180164273-f6151f55-0580-49a6-9c24-40cea81c01e4.png">
 
-  - Reviewer comments/requests changes/approves
-  - Dev converses in the discussions, makes changes, and **resolves discussions**
-  - Another review cycle, until approved!
+  - Reviewer comments/requests changes/approves  
+    <img width="457" alt="Screenshot 2022-07-21 at 10 16 18" src="https://user-images.githubusercontent.com/10634693/180165128-3a4bcdc1-03e6-40bd-959c-e97d959663a7.png">
 
+  - Developer converses in the discussions, makes changes, and **resolves conversations**  
+    <img width="359" alt="Screenshot 2022-07-21 at 10 18 50" src="https://user-images.githubusercontent.com/10634693/180165665-3286e124-195d-4890-be0b-6d37e8a7caf6.png">
 
+  - Another review cycle, until approved!  
+    <img width="254" alt="Screenshot 2022-07-21 at 10 19 29" src="https://user-images.githubusercontent.com/10634693/180165861-0f6fccfd-1f5e-4ad0-9a9c-b835bc8361a9.png">
 
-8. After review & all checks succeeded, maintainer will merge **as squash-merge** into `main`!
+8. After review & all checks succeeded, maintainer will merge **as squash-merge** into `main`  
+    <img width="397" alt="Screenshot 2022-07-21 at 10 22 22" src="https://user-images.githubusercontent.com/10634693/180166473-38ac5d5e-b7f3-4c1f-ba3e-0caf39b6bd2e.png">
+
 
 **⚠️ Don't delete your branches after a PR ⚠️**
 
