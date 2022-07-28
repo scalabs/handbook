@@ -14,6 +14,7 @@ lib/
   main.dart
   src/
     cubits/
+    models/
     helpers/
     APP_MODULE_1/
       app_module_1_list_screen.dart
@@ -21,3 +22,11 @@ lib/
     APP-MODULE_2/
       ...
 ```
+
+### Architecture
+We strictly divide UI, data classes, and logic.
+No backend- or networking-specific code should be found together with UI or data.
+
+- All UI is written with vanilla Dart, mostly using `BlocProvider`, `BlocBuilder`, etc., but sometimes `StateFulWidget`
+- All business logic is inside `Cubit`s, `Bloc`s, or sometimes, if necessary, further wrapped by `Service` classes.
+- All of the data is stored in (mostly) immutable model classes, that just contain the data attributes and data serialization and deserialization.
