@@ -27,6 +27,7 @@
   - Shopify
   - Headless CMS
 - Cloud
+  - gRPC
   - TODO
 
 ## Guides / Manuals / Ressources
