@@ -16,6 +16,7 @@
   - Flutter https://flutter.dev
   - BloC https://bloclibrary.dev
   - Mapbox https://mapbox.com
+  - Firebase
 - Web development
   - JAMStack
   - SvelteKit, Jekyll, 11ty
@@ -26,8 +27,16 @@
   - AMPHTML
   - Shopify
   - Headless CMS
-- Cloud
+- Cloud / Backend / Database
   - gRPC
+  - Docker
+  - Google Cloud
+  - Firebase
+  - AWS
+  - DigitalOcean
+  - SQL (MS, Postgres)
+  - NoSQL & Document Databases
+  - RabbitMQ / Pub Sub
   - TODO
 
 ## Guides / Manuals / Ressources
