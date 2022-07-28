@@ -24,7 +24,7 @@ lib/
 ```
 
 ### Architecture
-We strictly divide UI, data classes, and logic.
+We strictly divide user interface, data classes, and logic.
 No backend- or networking-specific code should be found together with UI or data.
 
 - All UI is written with vanilla Dart, mostly using `BlocProvider`, `BlocBuilder`, etc., but sometimes `StateFulWidget`
