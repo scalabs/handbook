@@ -31,7 +31,8 @@
 
 ## Guides / Manuals / Ressources
 
-- [Code of Conduct WIP](https://github.com/scalabs/documentation/blob/main/CODE-OF-CONDUCT.md)
+- [Code of Conduct (WIP)](https://github.com/scalabs/documentation/blob/main/CODE-OF-CONDUCT.md)
+- [Flutter Guidelines](https://github.com/scalabs/documentation/blob/main/guides/flutter.md)
 
 ## GitHub organisations:
 
