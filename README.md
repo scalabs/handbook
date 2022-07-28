@@ -17,7 +17,7 @@
   - BloC https://bloclibrary.dev
   - Mapbox https://mapbox.com
   - Firebase
-- Web development
+- Web apps
   - JAMStack
   - SvelteKit, Jekyll, 11ty
   - Svelte, React/PReact
