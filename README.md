@@ -131,7 +131,7 @@ https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-p
 
 ### Code reviews
 
-We base our code review strategy on Google's Engineering Practices Documentation, [see here for code reviews](https://github.com/google/eng-practices). Although we are a bit stricter with the code review time, where our goal is once to twice per day!
+We base our code review strategy on Google's Engineering Practices Documentation, [see here for code reviews](https://github.com/google/eng-practices). Although we are a bit stricter with the code review frequency, where our goal is once to twice per day!
 
 
 ### Softare release process
