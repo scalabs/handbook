@@ -127,8 +127,12 @@ https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-p
 8. After review & all checks succeeded, maintainer will merge **as squash-merge** into `main`  
     <img width="397" alt="Screenshot 2022-07-21 at 10 22 22" src="https://user-images.githubusercontent.com/10634693/180166473-38ac5d5e-b7f3-4c1f-ba3e-0caf39b6bd2e.png">
 
-
 **⚠️ Don't delete your branches after a PR ⚠️**
+
+### Code reviews
+
+We base our code review strategy on Google's Engineering Practices Documentation, [see here for code reviews](https://github.com/google/eng-practices). Although we are a bit stricter with the code review time, where our goal is once to twice per day!
+
 
 ### Softare release process
 
