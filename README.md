@@ -88,6 +88,11 @@ TODO
 
 https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects
 
+- Only issues are inside projects, and we see linked PRs in the issue tiles
+![Screenshot 2022-08-01 at 11 51 02](https://user-images.githubusercontent.com/10634693/182122735-96773bd4-c3ae-4c41-aa31-8d92bbc0ade7.png)
+![Screenshot 2022-08-01 at 11 51 16](https://user-images.githubusercontent.com/10634693/182122739-c624fd3a-5398-4d49-ae0e-217f0a024b2c.png)
+
+
 ### Feature implementation process (issue -> new branch -> commits -> PR):
 
 1. Backlog / Issue: Start with an open issue that is assigned to you, if no one is assigned, go ahead and assign yourself.
