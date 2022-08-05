@@ -84,6 +84,9 @@ TODO
 
 2. Iterations (sprints)
 
+- Refinement (mid-sprint)
+- Sprint Demo (after sprint with client)
+
 TODO
 
 https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects
