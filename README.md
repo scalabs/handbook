@@ -89,6 +89,13 @@ TODO
 
 TODO
 
+### Testing
+
+- Unit & Integration tests TODO
+- Acceptance tests TODO
+
+---
+
 https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects
 
 - Only issues are inside projects, and we see linked PRs in the issue tiles
