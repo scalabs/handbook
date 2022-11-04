@@ -61,7 +61,7 @@
    - Always keep your issues and pull requests up to date
    - Resolve conversations, describe problems inside of issues and pull requests, with mentioning all of the people involved, instead of phone calls and private chats. 
    - For work-related time-sensitive conversations, Google Chat is the standard choice!
-- make sure to use our [templates](https://github.com/scalabs/github-workflows/tree/main/.github/ISSUE_TEMPLATE) before you file a question, issue, bug report or simliar
+- make sure to use our [issue templates](https://github.com/scalabs/github-workflows/tree/main/.github/ISSUE_TEMPLATE) before you file a question, issue, bug report or simliar
 
 ### Types of project tasks
 
