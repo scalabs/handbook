@@ -55,14 +55,7 @@
 
 ## Development Process
 
-- oriented on Scrum, you can watch the basics here: https://m.youtube.com/watch?v=PPO5GwSo0d4
-- for smaller projects no clear sprints, but weekly briefing & de-briefing
-- **GitHub is our most important communication channel!** We rely heavily on *public documentation for the whole development team* in our projects! **THIS MEANS:**
-   - Always keep your issues and pull requests up to date
-   - Resolve conversations, describe problems inside of issues and pull requests, with mentioning all of the people involved, instead of phone calls and private chats. 
-   - For work-related time-sensitive conversations, Google Chat is the standard choice!
-- make sure to use our [issue templates](https://github.com/scalabs/github-workflows/tree/main/.github/ISSUE_TEMPLATE) before you file a question, issue, bug report or simliar
-
+### [Development process](https://github.com/scalabs/documentation/blob/main/guides/development-process.md)
 ### Types of project tasks
 
 - Feature requests (labeled as *feature request*, previously *enhancement*)
