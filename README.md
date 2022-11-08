@@ -72,6 +72,10 @@ https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-p
 - `bug-fix-NUMBER-OF-ASSOCIATED-ISSUE`
 - `feature-FEATURE-NAME`
 
+### Versioning
+We have
+- as pre-release: alpha and beta versions 
+- for bugfixes: x.x.bugfix[Name]
 ### Meetings:
 
   - daily 7:45-8:00
