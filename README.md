@@ -74,6 +74,7 @@ https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-p
 
 ### Versioning
 We have
+- semver.org as our standard
 - as pre-release: alpha and beta versions 
 - for bugfixes: x.x.bugfix[Name]
 ### Meetings:
