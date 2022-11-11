@@ -59,7 +59,7 @@ https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-p
 ![Screenshot 2022-08-01 at 11 51 02](https://user-images.githubusercontent.com/10634693/182122735-96773bd4-c3ae-4c41-aa31-8d92bbc0ade7.png)
 ![Screenshot 2022-08-01 at 11 51 16](https://user-images.githubusercontent.com/10634693/182122739-c624fd3a-5398-4d49-ae0e-217f0a024b2c.png)
 ---
-### [Development process](https://github.com/scalabs/documentation/edit/main/development-process.md)
+### [Development process](https://github.com/scalabs/documentation/blob/main/guides/development-process.md)
 ---
 ### Software release process
 
