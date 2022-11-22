@@ -52,22 +52,11 @@
 - https://github.com/avmverlag - World of Bike
 - https://github.com/dartclub - Dart OSS projects
 
-### Software release process
+### Testing
 
-![Software-Release-Prozess](https://user-images.githubusercontent.com/10634693/178265172-32babf22-71d5-48e4-8e82-06be93d9b1c3.png)
+- Unit & Integration tests TODO
+- Acceptance tests TODO
 
-### Branches (naming conventions)
-
-- `main` upstream branch, reviewed / quality control. Merged via squash
-- `releases` releases, production branch / protected, controlled, after testing/staging, merged from `main` via squash
-- `bug-fix-NUMBER-OF-ASSOCIATED-ISSUE`
-- `feature-FEATURE-NAME`
-
-### Versioning
-We have
-- semver.org as our standard
-- as pre-release: alpha and beta versions 
-- for bugfixes: x.x.bugfix[Name]
 ### Meetings:
 
   - daily 7:45-8:00
@@ -76,6 +65,12 @@ We have
 
 - @lukas-h offers pair-programming sessions as 90-Minute blocks Tue to Fri 13-16:00 https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3Qus7zD8yPWltkMUSg2Ys4RDGfTVQ-oKn-bFJjdIriJc9HZKiDQJ0wVPJXRZ4t5w9vhevHY-MK
 
+### Branches (naming conventions)
+
+- `main` upstream branch, reviewed / quality control. Merged via squash
+- `releases` releases, production branch / protected, controlled, after testing/staging, merged from `main` via squash
+- `bug-fix-NUMBER-OF-ASSOCIATED-ISSUE`
+- `feature-FEATURE-NAME`
 
 ---
 
