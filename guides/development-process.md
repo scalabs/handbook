@@ -1,5 +1,3 @@
---- 
-
 ## Development Process
 
 - oriented on Scrum, you can watch the basics here: https://m.youtube.com/watch?v=PPO5GwSo0d4
@@ -40,5 +38,3 @@ TODO
 
 - Unit & Integration tests TODO
 - Acceptance tests TODO
-
----
