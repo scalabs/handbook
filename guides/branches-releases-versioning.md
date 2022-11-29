@@ -1,3 +1,10 @@
+### Branches (naming conventions)
+
+- `main` upstream branch, reviewed / quality control. Merged via squash
+- `releases` releases, production branch / protected, controlled, after testing/staging, merged from `main` via squash
+- `bug-fix-NUMBER-OF-ASSOCIATED-ISSUE`
+- `feature-FEATURE-NAME`
+
 ### Software release process
 
 ![Software-Release-Prozess](https://user-images.githubusercontent.com/10634693/178265172-32babf22-71d5-48e4-8e82-06be93d9b1c3.png)
