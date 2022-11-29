@@ -54,7 +54,7 @@ Project managers need technical know-how in our organization.
 **Smaller roles**
 
 - *Quality assurance* – This role is not a separate person, but a skill that is taught to every developer, with additional levels of peer-review (code reviews, acceptance test driven development, user testing, multi-level release systems).
-- *DevOps* – This role is not a separate person, but a skill that is taught to every developer or easy-to-use automations using GitHub Actions or PaaS products. For roles like K8S, we might hire separate people in the future.
+- *DevOps* – This role is not a separate person, but a skill that is taught to every developer for simple automations using GitHub Actions, Infrastructure as code (IaC), or PaaS products. For roles like K8S, we might hire separate people in the future.
 
 ## Project management implementation on GitHub
 
