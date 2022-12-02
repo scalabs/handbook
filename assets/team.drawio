@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T13:45:28.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="yPxIj9fb43St0KwyH1h9" type="github"><diagram id="irsTk1Xv1j35OJWD8Swh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-02T11:53:15.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0ZGvuKVjbIRe0DQ_wKby" version="20.5.3" type="github">
+  <diagram id="irsTk1Xv1j35OJWD8Swh" name="Page-1">
+    <mxGraphModel dx="1106" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7OBD_qys5fik1bD9xN_8-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="790" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7OBD_qys5fik1bD9xN_8-1" value="Developer&lt;br&gt;(Team leader)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7OBD_qys5fik1bD9xN_8-2" value="Developer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7OBD_qys5fik1bD9xN_8-3" value="Developer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7OBD_qys5fik1bD9xN_8-4" value="Developer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7OBD_qys5fik1bD9xN_8-5" value="Development Team&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7OBD_qys5fik1bD9xN_8-6" value="Project manager" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
