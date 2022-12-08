@@ -3,17 +3,21 @@ at every stage of our work and all over at our organisation.
 
 
 ## Values
-- ScaLabs is both labs and people
+- ScaLabs is both labs & people
 - Functioning societies produce wonder
 - Human rights are universal
-- Good is sustainable
+- Good is green
 - Less but better
 - Form follows the content
 - Committment to highest standards defines us
 
-Topics:
-- Serve
+Code of conduct:
 - Respect
+  - colleagues
+  - clients
+    - we are serving clients
+  - partners
+- Tolerance
 - Conflict resolution
-- Dealing the competitor 
+- Dealing with the competitors
 - ...
