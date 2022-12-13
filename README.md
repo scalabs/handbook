@@ -7,8 +7,8 @@ This documentation contains a general guide of how we work at Scalabs. Is serves
 - [Project Management Guide](https://github.com/scalabs/documentation/blob/main/guides/project-manangement.md)
 - [Feature Implementation & Code Reviewing Guide](https://github.com/scalabs/documentation/blob/main/guides/feature-impl-code-review.md)
 - [Branches, Releases & Versioning Guide](https://github.com/scalabs/documentation/blob/main/guides/branches-releases-versioning.md)
-- [Acceptance Testing and Regression Testing](https://github.com/scalabs/documentation/blob/main/guides/debugging.md) `[IN PROGRESS]`
-- [Debugging & Troubleshooting Guide](https://github.com/scalabs/documentation/blob/main/guides/debugging.md) `[IN PROGRESS]`
+- [Acceptance Testing and Regression Testing](/#) `[IN PROGRESS]`
+- [Debugging & Troubleshooting Guide](https://github.com/scalabs/documentation/blob/main/guides/debugging.md)
 - [Requirements Documentation and Feature Engineering](/#) `[IN PROGRESS]`
 ---
 
