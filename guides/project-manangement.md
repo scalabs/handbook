@@ -13,10 +13,9 @@ The project managers are responsible for:
 
 - Feature engineering (All of the documentation for **feature requests**)
 - Managing milestones according to importance of the features
-- Creating and project boards, keeping them up-to-date and managing sprints
+- Creating and updating project boards, keeping them up-to-date and managing sprints
 - Accountability for overall progress
-
-Project managers need technical know-how in our organization.
+- Project managers need strong technical know-how in our organization.
 
 **Developer**
 
@@ -58,13 +57,13 @@ For these types of project tasks we have [issue templates](https://github.com/sc
 Every repository we work on has these templates added by default, if they are not present yet, they can be added from this folder:  
 `https://github.com/scalabs/github-workflows/tree/main/.github/ISSUE_TEMPLATE`
 
-These templates provide the project managers and developers:
-
+These templates provide the project managers and developers:  
 - comparability of the issues
 - a minimum standard for documentation / feature engineering, 
 - a clear set of instructions to follow when implementing/reproducing a bug, meaning less uncertainty and inquiries about the tasks at hand
 - and clear acceptance criteria, important for testing and quality control
 
+---
 
 - Each repository's issues represent the full **backlog** of a project
 - **GitHub Project Boards** are used for scheduling and tracking the implementation of the features.
