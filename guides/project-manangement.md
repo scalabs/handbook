@@ -13,6 +13,7 @@ The project managers are responsible for:
 - Feature engineering (All of the documentation for **feature requests**)
 - Managing milestones according to importance of the features
 - Creating and project boards, keeping them up-to-date and managing sprints
+- Accountability for overall progress
 
 Project managers need technical know-how in our organization.
 
@@ -40,6 +41,8 @@ We rely heavily on *public documentation for the whole development team* in our 
 
 # Project management implementation on GitHub
 
+![Project management](https://raw.githubusercontent.com/scalabs/documentation/main/assets/images/pm.drawio.png)
+
 ## Project tasks (types of GitHub issues)
 
 We have a clear set of project tasks. These are:
@@ -62,12 +65,8 @@ These templates provide the project managers and developers:
 - and clear acceptance criteria, important for testing and quality control
 
 
-![Project management](https://raw.githubusercontent.com/scalabs/documentation/main/assets/images/pm.drawio.png)
-
 - Each repository's issues represent the full **backlog** of a project
 - **GitHub Project Boards** are used for scheduling and tracking the implementation of the features.
-
-
 
 
 ## Working with Project boards
