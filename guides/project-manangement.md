@@ -63,21 +63,16 @@ These templates provide the project managers and developers:
 - a clear set of instructions to follow when implementing/reproducing a bug, meaning less uncertainty and inquiries about the tasks at hand
 - and clear acceptance criteria, important for testing and quality control
 
----
-
-- Each repository's issues represent the full **backlog** of a project
-- **GitHub Project Boards** are used for scheduling and tracking the implementation of the features.
-
 
 ## Working with Project boards
 
-Project boards are there to help organise and track the issue. Each repository is linked to a *Project Board* which should list all the issues.
+**GitHub Project Boards** are used for scheduling and tracking the implementation of the features. Each repository is linked to a *Project Board* which should list all the repository's issues.
 
 Project boards are organized in different **views** and **columns**.
 
-**Views** are there to show and filter the issues in a different way: As a Kanban-board, by priority, by size, or filtered any other attribute.
+**Views** show and filter the issues in a different ways: As a Kanban-board, by priority, by size, or filtered any other attribute.
 
-The **columns** we use in projects are:
+The **columns** we use in project boards are:
 
 - `New` lists all the new issues that were added to the project.
 - `Backlog` lists all the things that have to be done and are not fully engineered.
