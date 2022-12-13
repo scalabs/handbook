@@ -107,3 +107,13 @@ For bigger projects we organize the implementation work in **sprints**/**iterati
   - Sprint scopes are set by project management and developers.
   - Sprint-participants organize their work in a *kick-off*, *refinement* (mid-sprint), *retrospective* meeting (sprint demo), as well as daily standups.
 
+## Milestones / "Epics" / "Initiatives"
+
+To organize higher level goals / development phases, such as writing a new module for an application, we create milestones, which contain a range of features and improvements.
+On GitHub, we have two options to create milestones:
+
+- Group issues in milestones
+<img width="1110" alt="Screenshot 2022-12-13 at 15 19 51" src="https://user-images.githubusercontent.com/10634693/207357877-a0a24dce-1c99-4ee2-b92e-f086f4d5a061.png">
+
+- Open a Project board for that particular phase
+
