@@ -111,11 +111,5 @@ Linked pull requests show up in the issue tile in the board.
 For bigger projects we organize the implementation work in **sprints**/**iterations**.
   - A sprint is a repeatable development phase of 2-3 weeks with a certain scope of implementation tasks planned.
   - Sprint scopes are set by project management and developers.
-  - Sprint-participants organize their work in a *kick-off* and *retrospective* meeting, as well as daily standups.
-
-Each sprint has 
-- a Kick-off,
-- Refinement (mid-sprint),
-- and Sprint Demo (after sprint with client)
-event.
+  - Sprint-participants organize their work in a *kick-off*, *refinement* (mid-sprint), *retrospective* meeting (sprint demo), as well as daily standups.
 
