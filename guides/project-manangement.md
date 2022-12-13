@@ -2,8 +2,9 @@
 
 ## Intro
 
-Our project management is partly oriented on Scrum. (You can watch the basics [here (YouTube)](https://m.youtube.com/watch?v=PPO5GwSo0d4)). Although as a small team, we get rid of some of the managerial overhead and have simplified roles and processes.
-Our whole project management and project execution happens on GitHub, so this guide mainly describes, how to work with those tools.
+Our project management is partly oriented on Scrum. (You can watch the basics [here (YouTube)](https://m.youtube.com/watch?v=PPO5GwSo0d4)).  
+Although as a small team, we get rid of some of the managerial overhead and have simplified roles and processes.
+Our whole project management and project execution happens on GitHub, so this guide mainly describes how to work with these tools.
 
 ## Our team roles
 
