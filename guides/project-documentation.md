@@ -7,15 +7,15 @@ In every project we have two different types of communication:
 
 For both, we need documentation in files and different software tools.
 - Our client-facing documentation is mostly done in different Office / Google Docs files.
-- Our internal documentation is mostly on GitHub, as **feature requests** and project boards.
+- Our internal documentation is mostly on GitHub, e.g. as **feature requests** and project boards.
 
 ![](https://github.com/scalabs/documentation/blob/main/assets/images/proj-documentation.png)
 
-Our most important detail planning files, that we provide to our clients:
+### Most important planning files (shared with our clients):
 
 **Requirements Documentation**
 
-This is a document where we systematically collect all the client's needs, dependencies, and technical details that it entails.
+This is a document where we systematically collect all the client's needs, dependencies, and goals. We follow these steps:
 
 - Identify the relevant stakeholders.
 - Establish project goals and objectives.
@@ -27,34 +27,37 @@ This is a document where we systematically collect all the client's needs, depen
 
 **Solution Design (Concept)**  
 
-The solution design is a **confidential** document between our client and us which contains a concrete solution with a clear scope (based on the requirements documentation) and software design (taken in all the dependencies and limitations).
-We have a **template** document (MS Office, Google Docs), that we use for it.
-This is the table of contents:
+The solution design is a **confidential** document between one of our clients and us which contains a concrete solution with a clear scope (based on the requirements documentation) and software design (taken in all the dependencies and limitations).
+
+We have a **template** document (MS Office, Google Docs), that we use for this purpose.  
+This is our standard table of contents:
 
 ```
 1. Executive Summary
-2. Solution & scope
+2. Solution & Scope
 3. Project-Deliverables
-4. Restrictions, risks incl. information security risks
+4. Restrictions, Risks incl. Information Security Risks
 5. Dependencies
 6. Acceptance Criteria
-7. Software-Design und -Architecture
-8. Setup and onboarding
-9. Infrastructure requirements
-10. Testing strategy
+7. Software Design and Architecture
+8. Setup and Onboarding
+9. Infrastructure Requirements
+10. Testing Strategy
 ```
 
 **Execution Plan / Timeline / Milestones**
 
-Our execution plan outlines project phases with soft deadlines, as well as feedback-, testing- and other meetings.
-The contents of the execution plan are based on the [iterations/sprints and milestones/"epics"](https://github.com/scalabs/documentation/blob/main/guides/project-manangement.md#iterations--sprints) that are planned by our project managers.
+Our execution plan acts as a communication device to our clients. It outlines project phases and time planning.
+It includes soft deadlines as well as meetings for feedback, testing, and other reasons.
 
-We create the execution plan as Word documents or Google Docs for a textual version:
+The contents of the execution plan are extracted from our [iterations/sprints and milestones/"epics"](https://github.com/scalabs/documentation/blob/main/guides/project-manangement.md#iterations--sprints) that are planned by our project managers on GitHub.
 
-<img width="1991" alt="Screenshot 2022-12-20 at 13 53 23" src="https://user-images.githubusercontent.com/10634693/208677768-ea507665-eec3-4c04-8471-aeddc13f2126.png">
+The execution plan is created as a MS Word or Google document:
+
+<img width="680" alt="Screenshot 2022-12-20 at 14 42 41" src="https://user-images.githubusercontent.com/10634693/208680951-f0b86fa6-6e10-472b-b760-b585e387914a.png">
 
 
-For bigger project we create Gantt charts, which is a visualisation of project timeline, with Google Sheets. [Documentation: How to create timeline views](https://support.google.com/docs/answer/12935277?visit_id=638071393366253531-4129096414&p=timeline_view&rd=1#topic=1382883)
+For bigger project, we additionally create Gantt charts, which are visualisations of project timelines. [Google Sheets: How to create timeline views](https://support.google.com/docs/answer/12935277?visit_id=638071393366253531-4129096414&p=timeline_view&rd=1#topic=1382883)
 
 
 ## Feature Engineering
