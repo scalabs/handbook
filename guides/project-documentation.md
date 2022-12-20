@@ -13,7 +13,8 @@ For both, we need documentation in files and different software tools.
 
 Our most important detail planning files, that we provide to our clients:
 
-**Requirements Documentation**  
+**Requirements Documentation**
+
 This is a document where we systematically collect all the client's needs, dependencies, and technical details that it entails.
 
 - Identify the relevant stakeholders.
@@ -22,6 +23,7 @@ This is a document where we systematically collect all the client's needs, depen
 - Document the requirements.
 - Confirm the requirements.
 - Prioritize the requirements.
+
 
 **Solution Design (Concept)**  
 
