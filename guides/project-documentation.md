@@ -62,27 +62,25 @@ For bigger project, we additionally create Gantt charts, which are visualisation
 
 ## Feature Engineering
 
-Our main project management tool is GitHub. For our project tasks, we use **GitHub Issues**. We have different types of issues, as described [here: Project tasks (types of GitHub issues)](https://github.com/scalabs/documentation/blob/main/guides/project-manangement.md#project-tasks-types-of-github-issues).
+Our main project management tool is GitHub. We use **GitHub Issues** for our project tasks. We have different types of issues, as described [here: Project tasks (types of GitHub issues)](https://github.com/scalabs/documentation/blob/main/guides/project-manangement.md#project-tasks-types-of-github-issues).
 
-For new features or enhancements, we have a template called "Feature request". The process of transforming all of the client requirements into these feature requests, is called **feature engineering**. This envolves following:
+For new features or enhancements, we have a template called "Feature request". The process of transforming all of the project's scope and solution design into these feature requests, is called **feature engineering**. This envolves the following:
 
 ### Create a feature request
 
-1. First step is classification. We choose the type `Feature request` to distinguish this type of entity. 
+1. First step is classification. We choose the type `Feature request` to distinguish it from other types of issues. 
 <img width="1991" alt="Screenshot 2022-12-20 at 13 53 23" src="https://user-images.githubusercontent.com/10634693/208672269-56009bb9-c70a-41c9-8f8c-b07cf0212623.png">
 
 Then, we **fill out** our feature request **template**.
 
 2. In this step we need to further elaborate about this feature and tell if it is a new feature, or an enhancement / improvement of an existing feature. 
-
 ```markdown
 **Type of Issue**  
 - [ ] New Feature Implementation
 - [ ] Addition / Enhancement / Improvement
 ```
 
-
-3. The next step involves defining the place this feature has in software / the type of work that is needed. 
+3. The next step involves defining the type of implementation work that is needed. 
 ```markdown
 **Type of Work**  
 - [ ] Screen  
@@ -102,6 +100,7 @@ As a [type of user],
 I want to [perform an action],  
 so that I can [achieve a goal].  
 ```
+`[TODO]`
 
 5. Actionable tasks
 
@@ -112,6 +111,7 @@ so that I can [achieve a goal].
 - [ ] Implement Widget to display [result of the action]  
 - [ ] ...
 ```
+`[TODO]`
 
 6. Acceptance criteria
 
@@ -122,3 +122,4 @@ so that I can [achieve a goal].
 - [ ] New UI is properly rendered  
 - [ ] ...
 ```
+`[TODO]`
