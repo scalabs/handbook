@@ -100,7 +100,6 @@ As a [type of user],
 I want to [perform an action],  
 so that I can [achieve a goal].  
 ```
-`[TODO]`
 
 5. Th main work will be divided into small activities. When written in order it will also show the implementation workflow.
 ```markdown
@@ -110,7 +109,6 @@ so that I can [achieve a goal].
 - [ ] Implement Widget to display [result of the action]  
 - [ ] ...
 ```
-`[TODO]`
 
 6. Acceptance criteria consists of the set of requriements that must be met to mark the software complete.
 ```markdown
@@ -120,4 +118,3 @@ so that I can [achieve a goal].
 - [ ] New UI is properly rendered  
 - [ ] ...
 ```
-`[TODO]`
