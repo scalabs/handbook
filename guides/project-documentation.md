@@ -91,7 +91,8 @@ Then, we **fill out** our feature request **template**.
 - [ ] Documentation
 ```
 
-4. A plain written representation of the feature that is going to be implemented comes here 
+4. A simple description of the feature from the user's perspective. The second paragraph has a scrum story-like structure and helps reinforcement a uniform style of writing down feature requests.
+
 ```markdown
 **Description**  
 *Describe in simple sentences the functionality*  
@@ -101,7 +102,7 @@ I want to [perform an action],
 so that I can [achieve a goal].  
 ```
 
-5. Th main work will be divided into small activities. When written in order it will also show the implementation workflow.
+5. The implementation work will be divided into smaller **actionable** tasks. It gives the developer clear instructions. 
 ```markdown
 **Actionable Tasks**  
 - [ ] Implement a Cubit/BloC for [action] with states [...] and methods [...]  
@@ -110,7 +111,8 @@ so that I can [achieve a goal].
 - [ ] ...
 ```
 
-6. Acceptance criteria consists of the set of requriements that must be met to mark the software complete.
+6. Acceptance criteria consist of the set of requriements that must be met to mark the software complete and functionally sound. Our acceptance criteria are formulated so that they can act as blue prints for acceptance and regression testing.
+(more on that in the guide).
 ```markdown
 **Acceptance criteria**  
 - [ ] Screen should render the initial UI properly  
