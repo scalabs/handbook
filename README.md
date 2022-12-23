@@ -33,8 +33,8 @@ This documentation contains a general guide of how we work at Scalabs. Is serves
 | [scalabs-graveyard](https://github.com/scalabs-graveyard)   | Retired projects by ScaLabs                                                                        |
 | [dartclub](https://github.com/dartclub)                     | Our open source projects for Dart & Flutter :blue_heart:                                           |
 | [avmverlag](https://github.com/avmverlag)                   | Der a.v.&m.-Verlag ist ein anerkannter Herausgeber von Fachmedien in der Zweiradbranche            |
-| [metaimmo](https://github.com/metaimmo)                     | A SaaS startup enabling real estate companies to bring their location due diligence to a new level |
 | [lexlynk](https://github.com/lexlynk)                       | A SaaS startup that makes legal texts interactive utilizing AI                                     |
+| [metaimmo](https://github.com/metaimmo)                     | A SaaS startup enabling real estate companies to bring their location due diligence to a new level |
 | [BetterMeetHQ](https://github.com/BetterMeetHQ)             | Home of the BetterMeet project and everything else about the community building                    |
 | [gdgnuernberg](https://github.com/gdgnuernberg)             | Developer Group for Google-related technology based in Nuremberg                                   |
 | [tcfev](https://github.com/tcfev)                           | TCF e.V. is a non-profit civic lab                                                                 |
