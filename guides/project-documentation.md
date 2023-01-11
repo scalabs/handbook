@@ -64,7 +64,7 @@ For bigger project, we additionally create Gantt charts, which are visualisation
 
 Our main project management tool is GitHub. We use **GitHub Issues** for our project tasks. We have different types of issues, as described [here: Project tasks (types of GitHub issues)](https://github.com/scalabs/documentation/blob/main/guides/project-manangement.md#project-tasks-types-of-github-issues).
 
-For new features or enhancements, we have a template called "Feature request". The process of transforming all of the project's scope and solution design into these feature requests, is called **feature engineering**. This envolves the following:
+For new features or enhancements, we have a template called "Feature request". The process of transforming all of the project's scope and solution design into these feature requests, is called **feature engineering**. This involves the following:
 
 ### Create a feature request
 
