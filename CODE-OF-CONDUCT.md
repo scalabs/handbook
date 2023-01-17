@@ -1,6 +1,8 @@
 Our code of conduct are the measures which ensure that we stick to our values
 at every stage of our work and all over at our organisation.
-
+It is established to ensure that all colleagues act in an ethical and professional manner,
+It will promote a positive and respectful experience for everyone who interacts with the
+company, and is a measure to actively maintain a productive and inclusive work environment internally.
 
 Code of conduct
 
